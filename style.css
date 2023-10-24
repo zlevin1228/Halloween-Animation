@@ -6,7 +6,8 @@ body {
     justify-content: center;
     align-items: center;
     margin: 0;
-    background: #424f6f;
+    background-image: url('Images/travisconcert.jpg');
+    background-repeat: none;
 }
 
 #container {
@@ -14,7 +15,7 @@ body {
     height: 400px;
     padding: 0;
     box-sizing: border-box;
-    background: #424f6f;
+    background: none;
 }
 
 *:after,
@@ -117,7 +118,7 @@ body {
 
 #shadow {
     margin: -90px auto 0;
-    background: #252c49;
+    background: none;
     width: 180px;
     height: 40px;
     border-radius: 50%;
