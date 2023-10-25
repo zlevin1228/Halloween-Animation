@@ -6,8 +6,9 @@ body {
     justify-content: center;
     align-items: center;
     margin: 0;
-    background-image: url('Images/travisconcert.jpg');
-    background-repeat: none;
+    background-image: url('Images/travisscott.webp');
+    background-repeat: no-repeat;
+    background-size: 100%;
 }
 
 #container {
